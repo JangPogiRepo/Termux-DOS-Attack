@@ -1,3 +1,4 @@
 threading
 socket
-
+webbrowser
+pyfiglet
