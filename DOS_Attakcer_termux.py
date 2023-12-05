@@ -1,6 +1,21 @@
 #devloped by @celestialsbeings also join @crackedaccns
 import socket
 import threading
+import webbrowser
+import pyfiglet
+
+banner = pyfiglet.figlet_format("Website Destroyer", font='slant')
+print(banner)
+Join = pyfiglet.figlet_format("First Join @crackedaccns", font='slant')
+
+
+# Open a new browser window pointing to a specific URL
+try:
+    print(join)
+    webbrowser.open('http://www.google.com')
+except:
+    pass
+    
 
 # Global counter for the number of requests
 num_requests = 0
